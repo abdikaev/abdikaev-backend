@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Basket</title>
+{% endblock %}
+
+{% block content %}
+<style>
+    body {
+        background-color: blue;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            {% include 'header.html' %}
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <table class="table mt-4">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">ID</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Amount</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if basket_items %}
+                        {% for item in basket_items %}
+                            <tr>
+                                <td>{{ forloop.counter }}</td>
+                                <td>{{ item.movie.id }}</td>
+                                <td>{{ item.movie.title }}</td>
+                                <td>{{ item.movie.description }}</td>
+                                <td>{{ item.amount }}</td>
+                                <td>
+                                    <a href="{% url 'delete_from_basket' pk=item.id %}" class="d-block mt-4">
+                                        <button class="btn btn-danger">Delete</button>
+                                    </a>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    {% else %}
+                        <tr>
+                            <td colspan="6" class="text-center">No items in the basket</td>
+                        </tr>
+                    {% endif %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

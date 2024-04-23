@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12134076-2f0a-4522-9edd-15fe876a92d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../deetomyy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/.idea/abdikaev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/deetomyy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/deetomyy/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/deetomyy/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/deetomyy/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/deetomyy/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/idea/deetomyy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/idea/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/migrations/0002_alter_movie_options_rename_name_movie_title_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/migrations/0003_movie_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/migrations/0004_remove_movie_items_movie_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/migrations/0005_rename_order_movie_owner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/migrations/0006_alter_movie_due_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/templates/movies/basket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/templates/movies/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/templates/movies/movie-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/templates/movies/movie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/movies/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/static/js/my_script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/templates/user/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deetomyy/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../env/env/lecture_2/lecture_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../env/env/lecture_2/lecture_2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../env/env/lecture_2/lecture_2/.idea/lecture_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../env/env/lecture_2/lecture_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../env/env/lecture_2/lecture_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../env/env/lecture_2/lecture_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../env/env/lecture_2/lecture_2/lecture_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evn/bin/.idea/bin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw21/hw21/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw21/hw21/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw21/hw21/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hw21/hw21/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw21/hw21/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw21/hw21/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw21/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deetomyy/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ebD2o6Pd229gw4TWj0oDH5e5Af" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.abdikaev.executor": "Debug",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/abdikaev/Desktop/abdikaev-backend/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/todos/migrations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="abdikaev" type="Python.DjangoServer" factoryName="Django server">
+      <module name="abdikaev" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12134076-2f0a-4522-9edd-15fe876a92d3" name="Changes" comment="" />
+      <created>1712164180502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712164180502</updated>
+      <workItem from="1712164181596" duration="25136000" />
+      <workItem from="1712203301294" duration="8307000" />
+      <workItem from="1712440891497" duration="8000" />
+      <workItem from="1712518634881" duration="599000" />
+      <workItem from="1712600485132" duration="598000" />
+      <workItem from="1712648410775" duration="4409000" />
+      <workItem from="1712658719102" duration="44729000" />
+      <workItem from="1713547940937" duration="1000" />
+      <workItem from="1713736717110" duration="792000" />
+      <workItem from="1713737698436" duration="4340000" />
+      <workItem from="1713879042527" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

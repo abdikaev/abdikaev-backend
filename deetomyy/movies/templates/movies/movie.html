@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Products page</title>
+{% endblock %}
+
+{% block content %}
+<style>
+    body {
+        background-color: blue;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            {% include 'header.html' %}
+        </div>
+    </div>
+</div>
+<div class="container">
+    {% include 'movies/index.html' %}
+</div>
+{% endblock %}

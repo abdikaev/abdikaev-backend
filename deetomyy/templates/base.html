@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    {% block head %}
+    {% endblock %}
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <style>
+        body {
+            background-color: #efd8c0;
+        }
+    </style>
+    <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+</head>
+<body>
+    {% block content %}
+    {% endblock %}
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+</body>
+</html>
+
+
